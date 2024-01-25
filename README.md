@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AnyelenTorres. I´m 31 years old.
+- 👋 Hi, I’m @AnyelenTorres. I´m 32 years old.
 - 👀 I’m from Mendoza,Argentina
-- 🌱 I’m currently a housewife. 
+- 🌱 I’m a full stack software developer student.
 - 💞️ I’m looking to change my life with little steps ...
-- 📫 you can contact me through my facebook Anyelen Torres.
+  
 
 <!---
 AnyelenTorres/AnyelenTorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
